@@ -1,0 +1,30 @@
+.product-conatiner{
+    border: 1px solid;
+    display: flex;
+    padding: 10px;
+}
+
+.image-conatiner{
+    width: 75px;
+}
+
+.image, .product-details{
+    width: 100%;
+}
+.product-details{
+    margin-left: 10px;
+}
+.name{
+    font-size: 10px;
+}
+
+.price{
+    font-size: 8px;
+}
+
+.btn{
+    font-size: 10px;
+    margin-top: 10px;
+    text-align: right;
+    cursor: pointer;
+}
